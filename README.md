@@ -1,6 +1,8 @@
 # 环境配置
 bash conda_install.sh
+
 conda activate RSGCBD
+
 bash env_install.sh
 
 # 推理
