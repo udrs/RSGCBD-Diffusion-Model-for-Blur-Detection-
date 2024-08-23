@@ -25,6 +25,4 @@ python scripts/blur_inference.py --data_dir /home/agou/vv/ARGCCascade_Test/test1
   - ![图片9](./show/图片9.png)
   - ![图片10](./show/图片10.png)
 
-# 下载权重文件
 
-- [savedmodel850000.pt](https://example.com/path/to/savedmodel850000.pt)
