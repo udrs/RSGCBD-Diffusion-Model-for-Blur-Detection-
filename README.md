@@ -1,3 +1,5 @@
+Generative Diffusion Blur Detection
+
 # 环境配置
 bash conda_install.sh
 
