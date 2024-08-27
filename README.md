@@ -27,4 +27,5 @@ python scripts/blur_inference.py --data_dir /home/agou/vv/ARGCCascade_Test/test1
   - ![图片9](./show/图片9.png)
   - ![图片10](./show/图片10.png)
 
-
+# 训练
+scripts/blur_train.py
